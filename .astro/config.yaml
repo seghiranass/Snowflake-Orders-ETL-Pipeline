@@ -1,0 +1,4 @@
+project:
+    name: dbt-dag
+    ports:
+        - "5432:5432"
